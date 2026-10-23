@@ -17,3 +17,4 @@ area_of_circle = area(5)
 print(f"The area of a circle with radius 5 is: {area_of_circle}") 
 # Output: The area of a circle with radius 5 is: 78.53981633974483
 End of documentation
+Ending of the docs
