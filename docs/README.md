@@ -84,3 +84,4 @@ Calculates the perimeter of a triangle.
   perimeter_of_triangle = perimeter(3, 4, 5)
   print(f"The perimeter of a triangle with sides 3, 4, 5 is: {perimeter_of_triangle}")
   # Output: The perimeter of a triangle with sides 3, 4, 5 is: 12
+  Documentation Completed
